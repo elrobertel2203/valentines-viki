@@ -10,7 +10,7 @@ body {
 
 .container {
   text-align: center;
-  background: white;
+  background: black;
   padding: 40px;
   border-radius: 20px;
   box-shadow: 0 20px 40px rgba(0,0,0,0.2);
@@ -48,3 +48,4 @@ button {
   color: white;
   position: absolute;
 }
+
